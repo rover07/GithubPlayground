@@ -1,6 +1,5 @@
-# WebDevelopment
-This repo contains my notes, codes, and projects related to my web development learning.
-<br>
+# Playground
+Just a repo dedicated to playing around git and github<br>
 Author: Vaibhav Chauhan (rover07)
 
 
